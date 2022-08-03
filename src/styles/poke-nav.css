@@ -1,0 +1,25 @@
+.red-bar-inner{
+    background-color:#DD1A1A ;
+    position: relative;
+    height: 103px;
+}
+
+.black-bar-inner{
+    position: relative;
+    height: 50px;
+    background-color:#0C0C0C ;
+}
+
+.pokeball-inner{
+   
+    position: absolute;
+    left: 90%;
+    top: 4%;
+}
+
+.logo{
+    position: absolute;
+    z-index: 1;
+    right: 75%;
+    top: 1%;
+}

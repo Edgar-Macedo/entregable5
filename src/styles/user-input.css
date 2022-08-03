@@ -1,0 +1,23 @@
+.hero{
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+
+.red-bar{
+    background-color:#DD1A1A ;
+    position: absolute;
+    width: 100%;
+    height: 123.18px;
+    top: 82%;
+}
+
+.black-bar{
+    background-color:#0C0C0C ;
+    position: absolute;
+    width: 100%;
+    height: 70px;
+    top: 92.5%;
+}
+
+

@@ -1,0 +1,40 @@
+.line{
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    
+}
+
+.black-line{
+    width: 117px;
+    height: 117px;
+    background-color:#000000 ;
+    top: 86.5%;
+    right: 46%;
+    z-index: 1;
+}
+
+.white-line{
+    width: 95px;
+    height: 95px;
+    background-color:#FFFFFF ;
+    top: 10%;
+    right: 10%;
+    
+}
+
+.inner-black-line{
+    width: 73px;
+    height: 73px;
+    background-color:#000000 ;
+    top: 11.5%;
+    right: 11.5%;
+}
+
+.gray-circle{
+    width: 51px;
+    height: 51px;
+    background-color:#212121;
+    top: 15.5%;
+    right: 15.5%;
+}
