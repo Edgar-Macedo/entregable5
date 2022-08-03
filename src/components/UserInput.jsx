@@ -34,7 +34,7 @@ const UserInput = () => {
                             placeholder={"Your name..."}
                             className="name"
                         />
-                        <button className='login'>Get started</button>
+                        <button className='login' style={{color:"white"}}>Get started</button>
                     </form>
                 </div>
             </div>
